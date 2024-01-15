@@ -6,7 +6,7 @@
 
 <img width="905" alt="Screenshot 2024-01-15 111634" src="https://github.com/Mahi5902/car_rental/assets/95998757/f8e9d40b-fdff-42be-bc77-0d44cc426128">
 
-<img width="918" alt="Screenshot 2024-01-15 111655" src="https://github.com/Mahi5902/car_rental/assets/95998757/e3959517-0f9e-4fd5-9df0-6fa18c44a64e">
+
 
 <img width="232" alt="Screenshot 2024-01-15 111831" src="https://github.com/Mahi5902/car_rental/assets/95998757/7a7f76f4-e6ba-44ce-9216-93fc031aa310">
 <img width="256" alt="Screenshot 2024-01-15 112033" src="https://github.com/Mahi5902/car_rental/assets/95998757/00618e78-39a1-4ffe-8961-c02a6cbed626">
